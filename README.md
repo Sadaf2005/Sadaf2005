@@ -13,7 +13,7 @@
 
 🚀 I'm **Sadaf**, a passionate **Full Stack Developer** and final-year Computer Science Engineering student, driven by a love for solving real-world problems through **scalable, modular applications** and clean code. With hands-on expertise in the **MERN Stack**, **Next.js**, **PostgreSQL**, **Redis**, and **Docker**, I design systems that are not only efficient but also production-ready. I combine strong fundamentals in **Data Structures & Algorithms**, **Core CS subjects**, and **Agile development practices** to build high-impact solutions. Always curious and open to innovation, I thrive in collaborative environments where technology meets creativity.
 
- I actively participate in programming competitions and hackathons, embracing challenges and pushing boundaries. With hands-on experience in Python, I continually broaden my technical skills. Beyond academics, I enjoy traveling and prioritize fitness, embracing a holistic approach to personal and professional growth.
+ I actively participate in programming competitions and hackathons, embracing challenges and pushing boundaries. With hands-on experience , I continually broaden my technical skills. Beyond academics, I enjoy traveling and prioritize fitness, embracing a holistic approach to personal and professional growth.
 
 ---
 
