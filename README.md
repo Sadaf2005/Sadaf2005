@@ -1,6 +1,6 @@
-<!-- Animated Banner Section -->
+
 <p align="center">
-  <img src="(https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmJtM3kwbWhrb2t1cjU5bXV4ZTR5bXJsY20zYXczZzg0aXljaTFoZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif)" alt="MERN Cloud Distributed Systems" width="100%" />
+  <img src="https://imgs.search.brave.com/ZHSrFCV4IxKEM8mgLL0QVzx7RvR664SADOWFC3h4Vqk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/ZnJlZS12ZWN0b3Iv/b25saW5lLWdhbWVz/LWNvbmNlcHRfMjMt/MjE0ODUyNzEzNi5q/cGc_c2VtdD1haXNf/aHlicmlkJnc9NzQw" alt="MERN Cloud Distributed Systems" width="100%" />
 </p>
 
 
