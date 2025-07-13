@@ -4,7 +4,8 @@
   <img src="giphy.gif" 
        alt="MERN Cloud Distributed Systems" 
        width="50%" 
-       height="200%" />
+       height="200%"
+       />
        </a>
 
 </p>
@@ -17,6 +18,7 @@
  I actively participate in programming competitions and hackathons, embracing challenges and pushing boundaries. With hands-on experience , I continually broaden my technical skills. Beyond academics, I enjoy traveling and prioritize fitness, embracing a holistic approach to personal and professional growth.
 
 ---
+
 
 ### 🔧 **Technologies & Tools**
 
