@@ -9,7 +9,7 @@
 ---
 
 <h1 align="center">Hi there, I'm Sadaf 👋!</h1>
-<h3 align="center">Full Stack MERN Developer | Cloud Enthusiast | DSA Enthusiast | INDIA </h3>
+<h3 align="center">Full Stack MERN Developer | Cloud & DSA Enthusiast | INDIA </h3>
 
 🚀 I'm **Sadaf**, a passionate **Full Stack Developer** and final-year Computer Science Engineering student, driven by a love for solving real-world problems through **scalable, modular applications** and clean code. With hands-on expertise in the **MERN Stack**, **Next.js**, **PostgreSQL**, **Redis**, and **Docker**, I design systems that are not only efficient but also production-ready. I combine strong fundamentals in **Data Structures & Algorithms**, **Core CS subjects**, and **Agile development practices** to build high-impact solutions. Always curious and open to innovation, I thrive in collaborative environments where technology meets creativity.
 
