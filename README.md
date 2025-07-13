@@ -4,7 +4,9 @@
        alt="MERN Cloud Distributed Systems" 
        width="50%" 
        height="200%" />
+
 </p>
+![Demo](giphy.gif)
 
 ---
 
