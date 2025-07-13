@@ -1,14 +1,13 @@
 
 <p align="center">
-  <img src="https://imgs.search.brave.com/8UCAtJRrzg24JUWgjrW-nsk3Lsxd06zO-fZ1e_wvCEQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/ZnJlZS12ZWN0b3Iv/aGFuZC1kcmF3bi1m/bGF0LWRlc2lnbi1z/cWwtaWxsdXN0cmF0/aW9uXzIzLTIxNDky/NjI5NjQuanBnP3Nl/bXQ9YWlzX2h5YnJp/ZCZ3PTc0MA" 
+  <a href="https://www.linkedin.com/in/sadaf-63aa001b6/">
+  <img src="giphy.gif" 
        alt="MERN Cloud Distributed Systems" 
        width="50%" 
        height="200%" />
+       </a>
 
 </p>
-![Demo](https://raw.githubusercontent.com/Sadaf2005/Sadaf2005/main/giphy.gif)
-
----
 
 <h1 align="center">Hi there, I'm Sadaf 👋!</h1>
 <h3 align="center">Full Stack MERN Developer | Cloud & DSA Enthusiast | INDIA </h3>
